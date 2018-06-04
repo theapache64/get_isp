@@ -1,0 +1,15 @@
+{
+  "name": "get_isp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "get_isp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-notifier": "^5.2.1",
+    "play-sound": "^1.1.2"
+  }
+}
