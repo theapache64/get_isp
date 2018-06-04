@@ -7,6 +7,17 @@ A simple nodejs program to get ISP name notifier
 git clone git@github.com:theapache64/get_isp.git
 cd get_isp/
 npm install
+```
+
+or
+
+```
+sudo wget -O - https://raw.githubusercontent.com/theapache64/get_isp/master/install.sh | bash
+```
+
+### Run
+
+```
 node get_isp.js
 ```
 
